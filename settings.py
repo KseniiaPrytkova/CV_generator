@@ -1,5 +1,5 @@
 title = "Space Horse CV"
-firstname = "John Doe"
+firstname = "Carlos César Salvador Arana Castañeda"
 description = "Main Space Horse on Mars"
 skill_1 = "Flying ability"
 skill_1_prof_level = "professional"
