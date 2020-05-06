@@ -2,5 +2,5 @@
 
 run:
 ``` python
-sh run.sh myCV
+sh run.sh cv
 ```
